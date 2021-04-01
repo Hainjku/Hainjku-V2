@@ -8,7 +8,7 @@ let handler = (m, { text }) => {
 Ahora estás ausente hasta que vuelvas a enviar un nuevo mensaje, cuando te intenten tagear el usuario será notiicado de tu ausencia con el motivo.
 
 *Usuario:* ${conn.getName(m.sender)}
-*Motivo:* ${text ? ': ' + text : ''}
+*Motivo* ${text ? '*:* ' + text : ''}
 `)
 }
 handler.help = ['afk [alasan]']
