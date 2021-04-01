@@ -108,7 +108,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
       }
       // _text += footer + '\n'
     }
-    _text += after
+    // _text += after
     text =  typeof conn.menu == 'string' ? conn.menu : typeof conn.menu == 'object' ? _text : ''
     let replace = {
       '%': '%',
