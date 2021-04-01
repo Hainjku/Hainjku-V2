@@ -1,5 +1,7 @@
 let handler = async (m, { conn, text }) => {
   conn.reply(m.chat, `
+❓ PREGUNTAS
+
 *Pregunta:* ${m.text}
 *Respuesta:* ${Math.floor(Math.random() * 10)} ${pickRandom(['segundo(s)', 'minuto(s)', 'hora(s)', 'día(s)', 'domingo(s)', 'mes(es)', 'año(s)', 'década(s)', 'siglo(s)'])}
 `.trim(), m)
