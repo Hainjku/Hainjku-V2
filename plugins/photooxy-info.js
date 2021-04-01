@@ -5,10 +5,15 @@ Nuevo! Puedes crear tu propio logo con tu nombre 3D y 2D, utiliza uno de los sig
 
 - /text3dbox Tunombre
 - /blackpink Tunombre
-- Confesiones infinitas
-- Xp infinito
-- Prioridad en soporte
-- Y mucho más!
+- /bneon Tunombre
+- /neonlight Tunombre
+- /matrix Tunombre
+- /logoph Tunombre|Apellido
+- /quotemaker Tunombre
+- /sandw Tunombre
+- /silverplay Tunombre
+- /watercolor Tunombre
+- /wolflogo Tunombre
 
 
 
