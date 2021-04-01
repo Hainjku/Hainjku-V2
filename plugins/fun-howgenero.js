@@ -61,7 +61,7 @@ global.bucin = [
   "35. *Cassflujo:* cuando el nivel de indiferencia hacia su sexo fluctúa.",
   "36. *Cavusgénero:* para las personas con depresión; cuando siente que uno de los géneros no está deprimido mientras que el otro si lo está.",
   "37. *Cendgénero:* cuando su género cambia entre uno y su opuesto.",
-  "38. *Ceterofluido:* cuando se está ceterogénero y sus sentimientos fluctúan entre masculino, femenino, y neutro.",",
+  "38. *Ceterofluido:* cuando se está ceterogénero y sus sentimientos fluctúan entre masculino, femenino, y neutro.",
   "39. *Ceterogénero:* un género no binario con sentimientos específicos de masculinidad, feminidad o neutralidad.",
   "40. *Cisgénero:* la sensación de ser el género que se le asignó al nacer todo el tiempo (asignado masculino / sentimiento masculino).",
   "41. *Género Nublado:* un género que no puede llegar a la realización plena o a verse claramente debido al trastorno de despersonalización /desrealización de la persona.",
