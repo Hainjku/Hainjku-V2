@@ -12,7 +12,7 @@ let handler = async (m, { conn, text, usedPrefix }) => {
                 quoted: m, caption: '✳ 𝙷𝚊𝚒𝚗𝚓𝚔𝚞 ᴮᴼᵀ | *PHOTOOXY*\n\nSe ha creado correctamente el texto, no olvides seguir al creador del bot en instagram\n(https://instagram.com/gastonvainstein)'
             })
         } catch (e) {
-            throw '_Dalam perbaikan!_'
+            throw '_En mantenimiento!_'
         }
     } else throw `contoh: \n\n${usedPrefix}gplay ariffb`
 }
