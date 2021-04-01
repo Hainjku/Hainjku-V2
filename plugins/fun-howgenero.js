@@ -83,7 +83,7 @@ global.bucin = [
   "57. *Femfluido:* ser fluctuante o tener sentimientos de género fluidos que se limitan al género femenino.",
   "58. *Femgénero:* un género no binario que es de naturaleza femenina.",
   "113 *Gay:* Un chico siente atracción por una persona de su mismo sexo."
-  "59. *Flujo fluido:* la sensación de ser fluido entre dos o más géneros que también fluctúan en intensidad; una combinación de género fluido y género flujo.",
+  "59. *Flujo fluido:* la sensación de ser fluido entre dos o más géneros que también fluctúan en intensidad una combinación de género fluido y género flujo.",
   "60. *Gemigénero:* tener dos sexos opuestos que funcionan en conjunto, siendo ambos fluido y flujo.",
   "61. *Género vacío:* un género que sólo puede ser descrito como un espacio en blanco; cuando el género se pone en duda, todo lo que viene a la mente es un espacio en blanco.",
   "62. *Género corriente:* un género que es fluido entre sentimientos infinitos.",

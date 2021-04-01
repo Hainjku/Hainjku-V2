@@ -1,5 +1,5 @@
 let handler = async m => m.reply(`
-👑 *PREMIUM
+👑 *PREMIUM*
 
 Con este rango obtendrás los siguientes beneficios que te harán destacar sobre los demás.
 

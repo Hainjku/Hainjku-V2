@@ -14,7 +14,7 @@ let handler = async (m, { conn, text, usedPrefix }) => {
             let n3 = n2.replace(' ', '')
             console.log(m)
             no = m.sender.split("@s.whatsapp.net")
-            let teks = `📩 *SOPORTE*\n\nTienes un nuevo mensaje por parte del equipo de administración del bot, por favor léelo!\n\n📝 *Mensaje:* ${mes}\n*Ticke ID:* #702\n\n_Att: 𝙷𝚊𝚒𝚗𝚓𝚔𝚞 ᴮᴼᵀ | Soporte_`
+            let teks = `📩 *SOPORTE*\n\nTienes un nuevo mensaje por parte del equipo de administración del bot, por favor léelo!\n\n📝 *Mensaje:* ${mes}\n*Ticket ID:* #702\n\n_Att: 𝙷𝚊𝚒𝚗𝚓𝚔𝚞 ᴮᴼᵀ | Soporte_`
             conn.sendMessage(`${n3}@s.whatsapp.net`, teks, MessageType.text, {
                 contextInfo: {
                     mentionedJid: [m.sender]
