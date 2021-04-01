@@ -82,12 +82,12 @@ global.bucin = [
   "56. *Existigénero:* un género que sólo existe o se siente presente cuando se piensa al respecto o se hace un esfuerzo consciente para notarlo.",
   "57. *Femfluido:* ser fluctuante o tener sentimientos de género fluidos que se limitan al género femenino.",
   "58. *Femgénero:* un género no binario que es de naturaleza femenina.",
-  "113 *Gay:* Un chico siente atracción por una persona de su mismo sexo."
+  "113 *Gay:* Un chico siente atracción por una persona de su mismo sexo.",
   "59. *Flujo fluido:* la sensación de ser fluido entre dos o más géneros que también fluctúan en intensidad una combinación de género fluido y género flujo.",
   "60. *Gemigénero:* tener dos sexos opuestos que funcionan en conjunto, siendo ambos fluido y flujo.",
   "61. *Género vacío:* un género que sólo puede ser descrito como un espacio en blanco; cuando el género se pone en duda, todo lo que viene a la mente es un espacio en blanco.",
   "62. *Género corriente:* un género que es fluido entre sentimientos infinitos.",
-  "63. *Género fluido:* la sensación de fluidez dentro de su identidad de género; sintiendo un género diferente a medida que pasa el tiempo o según cambien las situaciones; no restringido a cualquier númer",o de géneros.
+  "63. *Género fluido:* la sensación de fluidez dentro de su identidad de género; sintiendo un género diferente a medida que pasa el tiempo o según cambien las situaciones; no restringido a cualquier número de géneros.",
   "64. *Género flujo:* la sensación de que tu sexo fluctúa en intensidad como el género fluido pero entre un género y un agénero.",
   "65. *Género pelusa:* acuñado por lolzmelmel; la sensación de tener más de un género que de alguna manera están borrosos hasta el punto de no ser capaz de distinguir o identificar los géneros individuales; sinónimo de blurgénero.",
   "66. *Género neutral:* la sensación de tener un género neutro, ubicado en algún lugar entre masculino y femenino o un tercer género que está separado de los binarios; a menudo se combina con neutrois.",
@@ -107,7 +107,7 @@ global.bucin = [
   "80. *Imperigénero:* un género fluido que puede ser controlado por el individuo.",
   "81. *Intergénero:* sensación de un género que se ubica en algún punto del espectro entre masculino y femenino; Nota:* no confundir con intersexual.",
   "82. *Juxera:* un género femenino similar a una chica pero en un plano separado y fuera de sí.",
-  "114 *Lesbiana* Una chica Sente atracción por otra persona de su mismo sexo"
+  "114 *Lesbiana* Una chica Sente atracción por otra persona de su mismo sexo",
   "83. *Libragénero:* un género que se siente agénero pero tiene una fuerte conexión con otro género.",
   "84. *Magigénero:* un género que es en su mayoría un género pero con un residuo de algo más.",
   "85. *Mascfluido:* Un género que tiene naturaleza fluida pero limita sólo en los géneros masculinos.",
