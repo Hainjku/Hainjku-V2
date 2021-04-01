@@ -171,7 +171,7 @@ module.exports = {
 
           m.isCommand = true
           let xp = 'exp' in plugin ? parseInt(plugin.exp) : 17 // XP Earning per command
-          if (xp > 200) m.reply('Ngecit -_-') // Hehehe
+          if (xp > 200) m.reply('💰 *BANCO* \n\nNgecit -_-') // Hehehe
           else m.exp += xp
           if (!isPrems && plugin.limit && global.DATABASE._data.users[m.sender].limit < plugin.limit * 1) {
             this.reply(m.chat, `💰 *BANCO* \n\nSe han acabado tus coins, para obtener más coins utiliza *${usedPrefix}claim* y luego *${usedPrefix}buy*\n\nPuedes obtener 👑 *PREMIUM* solicitándolo en el grupo del bot \n(https://chat.whatsapp.com/JDrnUNAs0yn0WCBJDoNPnl)`, m)
